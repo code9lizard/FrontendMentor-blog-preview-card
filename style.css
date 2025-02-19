@@ -50,7 +50,7 @@ body {
     flex-direction: column;
     flex-wrap: wrap;
     color: hsl(0, 0%, 7%);
-    width: 400px;
+    width: 330px;
     row-gap: 8px;
     line-height: 2;
 }
